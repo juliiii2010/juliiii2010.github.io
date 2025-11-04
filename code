@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Ma petite page de SNT</title>
+    <link rel="stylesheet" href="idkidk.css">
+</head>
+
+<body>
+    <h1>Ma petite page de SNT</h1>
+
+    <hr width="40%" align="left" size="2px" color="black">
+    <h2>Cours et activités</h2>
+    <span class="rouge">
+        <hr width="20%" align="left" size="2px" color="black">
+    </span><br>
+
+    <p><a href="https://juliiii2010.github.io/python-chap1.html">Chapitre I: Python</a></p>
+    <img src="Python.png" width="200" height="200" alt="Python">
+
+    <p><a href="https://juliiii2010.github.io/chap2-internet.html">Chapitre II: Internet</a></p>
+    <img src="internet.png" width="350" height="250" alt="Internet">
+
+    <p>Chapitre III: Le Web</p>
+    <img src="le web.png" width="200" height="200" alt="Le Web">
+
+    <p>Chapitre IV: Les réseaux sociaux</p>
+    <img src="reseaux sociaux.png" width="300" height="200" alt="Réseaux sociaux">
+
+    <p>Chapitre V: Le traitement de données</p>
+    <img src="le traitemment des données.png" width="250" height="300" alt="Traitement de données">
+
+    <p>Chapitre VI: La photographie numérique</p>
+    <img src="code binaire.png" width="200" height="200" alt="Photographie numérique">
+
+    <p>Chapitre VII: La géolocalisation</p>
+    <img src="la géolocalisation.png" width="200" height="200" alt="Géolocalisation">
+
+    <p>Chapitre VIII: Les objets connectés</p>
+    <img src="les objects connectés.png" width="300" height="200" alt="Objets connectés">
+
+    <hr width="40%" align="left" size="2px" color="black">
+    <h2>Projets</h2>
+    <span class="rouge">
+        <hr width="20%" align="left" size="2px" color="black">
+    </span><br>
+
+    <p>I. Ma première page web</p>
+    <img src="page.png" width="250" height="250" alt="Première page web">
+
+    <p>II. Page web de SNT</p>
+    <img src="page 2.png" width="250" height="250" alt="Page web SNT">
+</body>
+</html>
